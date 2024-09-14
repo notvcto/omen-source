@@ -1,2 +1,2 @@
 # omen-source
-Source code for the Omen Discord bot
+Source code for the Omen Discord bot.
