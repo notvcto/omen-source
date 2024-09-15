@@ -11,8 +11,8 @@ module.exports = {
         id: process.env.DISCORD_ID,
         prefix: '!',
         footer: `2023 - ${new Date().getFullYear()}`, 
-        botInvite: `https://discord.com/oauth2/authorize?client_id=1185264756194549822&permissions=10981660421366&scope=bot+applications.commands`,
-        serverInvite: "https://discord.gg/upWm54DwZg",
+        botInvite: `https://discord.com/oauth2/authorize?client_id=1185264756194549822&permissions=1377039810039&integration_type=0&scope=applications.commands+bot`,
+        serverInvite: "https://discord.gg/3Hv6EYUETt",
     },
 
     wordList: `aa
